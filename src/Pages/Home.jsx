@@ -16,7 +16,7 @@ function Home() {
         <>
         <img src={logo} alt="Logo" />
         <div className="home-call">
-        <a className="home-call-text" href="">
+        <a className="home-call-text" target="_blank" href="https://calendly.com/narative_media/content-strategy-planing">
           Schedule a Call
         </a>
       </div>

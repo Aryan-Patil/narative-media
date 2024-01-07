@@ -57,7 +57,7 @@ const DesktopHeader = ({ activeLink }) => {
         </NavLink>
       </nav>
       <div className="header-call">
-        <a className="header-call-text" href="">
+        <a className="header-call-text" target="_blank" href="https://calendly.com/narative_media/content-strategy-planing">
           Schedule a Call
         </a>
       </div>
